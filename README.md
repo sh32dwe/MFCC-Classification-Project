@@ -4,7 +4,7 @@ This repository contains the detailed documentation of the MFCC Classification p
 
 ## 📄 Project Documentation
 All the details of the project, including the methods, results, and links to additional resources, can be found in the PDF file:
-- [DS203-MFCC classification.pdf](DS203-MFCC classification.pdf)
+- [DS203-MFCC classification.pdf](DS203-MFCC%20classification.pdf)
 
 ## 🔗 Links to Resources
 The PDF contains:
